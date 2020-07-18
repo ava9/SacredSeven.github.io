@@ -684,6 +684,7 @@ input::-webkit-input-placeholder {
 .testimonials .single-testimonial .testimonial-image {
   position: relative;
   display: inline-block;
+  margin-top: 20px;
 }
 .testimonials .single-testimonial .testimonial-image img {
   width: 106px;

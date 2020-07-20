@@ -18,6 +18,11 @@
     1. COMMON CSS 
 ===========================*/
 @import url("https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i&display=swap");
+/* @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300,400;700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap'); */
+
+
 @font-face {
   font-family: "Gotham";
   src: local("Gotham-Bold"), url("../../fonts/Gotham-Bold.woff") format("woff");
@@ -38,10 +43,10 @@
   font-weight: 600;
   font-style: normal;
 }
-@font-face {
+/* @font-face {
   font-family: "LeagueGothic";
   src: url("../../fonts/League-Gothic/LeagueGothic-Regular.otf");
-}
+} */
 
 :root {
   font-size: 1em;
@@ -517,7 +522,7 @@ input::-webkit-input-placeholder {
 }
 
 #toc #toc-content-container h3 {
-  font-family: serif;
+  font-family: 'Merriweather', serif;
   font-size: 2.5rem;
   text-align: center;
   margin-bottom: 2rem;
@@ -525,13 +530,15 @@ input::-webkit-input-placeholder {
 #toc #toc-content-container .card {
     border: none;
 }
-#toc #toc-content-container .card .btn_link {
-    color: #072648;
+#toc #toc-content-container .card .card-header .btn-link {
+  color: #0a54e0;
+  font-weight: bold;
 }
 #toc #toc-content-container ul li {
     font-weight: 300;
     font-size: 1.2rem;
     margin-top: 4px;
+    font-family: 'Merriweather', serif;
   }
 /*===========================
     SECTION 2: TEAM 
@@ -624,6 +631,18 @@ input::-webkit-input-placeholder {
   font-weight: normal;
   font-size: 22px;
   line-height: 121.5%;
+}
+.team .featured-container {
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.team .featured-container img {
+  flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%
 }
 .team #blur-circle {
   position: absolute;
@@ -859,6 +878,9 @@ input::-webkit-input-placeholder {
   :root {
     font-size: 0.75em;
   }
+  .navigation.navigation-transparent {
+    background-color: #040404c2;
+  }
   .navbar-collapse {
     position: absolute;
     top: 116%;
@@ -942,6 +964,9 @@ input::-webkit-input-placeholder {
   :root {
     font-size: 0.75em;
   }
+  .navigation.navigation-transparent {
+    background-color: #040404c2;
+  }
   .navbar-collapse {
     position: absolute;
     top: 116%;
@@ -1006,6 +1031,9 @@ input::-webkit-input-placeholder {
   }
   .four-reasons .reason-card .card-body {
     text-align: center;
+  }
+  .four-reasons #toc img {
+    width: 80%;
   }
   .team {
     /* background-image: url("../../img/landing/section2-bg-mobile.png") !important; */

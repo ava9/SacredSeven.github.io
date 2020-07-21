@@ -21,6 +21,7 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&display=swap'); */
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300,400;700&display=swap');
 /* @import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500&display=swap');
 
 
 @font-face {
@@ -320,7 +321,7 @@ input::-webkit-input-placeholder {
   justify-content: space-around;
     align-items: center;
     display: flex;
-    width: 166px;
+    /* width: 166px; */
     height: 58px;
     line-height: 30px;
     box-shadow: none;
@@ -485,7 +486,7 @@ input::-webkit-input-placeholder {
     align-items: center;
     text-align: center;
     letter-spacing: -0.32px;
-    width: 224px;
+    /* width: 224px; */
     height: 64px;
     border-color: #020202;
     color: #020202;
@@ -522,10 +523,12 @@ input::-webkit-input-placeholder {
 }
 
 #toc #toc-content-container h3 {
-  font-family: 'Merriweather', serif;
+  /* font-family: 'Merriweather', serif; */
+  font-family: 'EB Garamond', serif;
   font-size: 2.5rem;
   text-align: center;
   margin-bottom: 2rem;
+  font-weight: 500;
 }
 #toc #toc-content-container .card {
     border: none;
@@ -535,10 +538,12 @@ input::-webkit-input-placeholder {
   font-weight: bold;
 }
 #toc #toc-content-container ul li {
-    font-weight: 300;
+    font-weight: 400;
     font-size: 1.2rem;
     margin-top: 4px;
-    font-family: 'Merriweather', serif;
+    /* font-family: 'Merriweather', serif; */
+    font-family: 'EB Garamond', serif;
+
   }
 /*===========================
     SECTION 2: TEAM 

@@ -631,15 +631,6 @@ input::-webkit-input-placeholder {
 .team .author-content h5 a:hover {
   border-bottom-width: 5px;
 }
-.team .author-content h5 a:after {
-  /* content: "";
-  display: block;
-  width: 100%;
-  padding-top: 5px; */
-  /* border-bottom: 3px solid #4c2be5;  */
-  /* border-bottom: 3px solid #000;
-  transition: 0.5s; */
-}
 .team .author-content h5 a:hover:after {
   /* border-bottom: #4C2BE5 3px solid; */
   /* color: #4C2BE5; */
@@ -949,14 +940,14 @@ input::-webkit-input-placeholder {
   .four-reasons .reason-card .card-img {
     width: 70% !important;
   }
-  .four-reasons .reason-card .card-title,
+  /* .four-reasons .reason-card .card-title,
   .four-reasons .reason-card:nth-of-type(2) .card-body .card-title,
   .four-reasons .reason-card:nth-of-type(3) .card-body .card-title {
-    /* font-size: 1.5rem; */
+    font-size: 1.5rem;
   }
   .four-reasons .reason-card .card-body .card-text {
-    /* font-size: 1rem; */
-  }
+    font-size: 1rem;
+  } */
   .team .author-content {
     margin: 30px auto;
     height: auto;

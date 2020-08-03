@@ -314,13 +314,9 @@ input::-webkit-input-placeholder {
   color: #cacaca;
 }
 .navigation .main-btn {
-  /* width: 166px;
-  height: 45px;
-  line-height: 30px; */
   justify-content: space-around;
   align-items: center;
   display: flex;
-  /* width: 166px; */
   height: 58px;
   line-height: 30px;
   box-shadow: none;
@@ -388,9 +384,7 @@ input::-webkit-input-placeholder {
   color: white;
   line-height: 37px;
 }
-.header-hero .hero-btn {
-  /* margin-top: 40px; */
-}
+
 .header-hero .hero-btn .main-btn,
 .header-hero .hero-btn .secondary-btn {
   border-radius: 5px;
@@ -410,10 +404,6 @@ input::-webkit-input-placeholder {
   width: 100%;
   top: 0;
 }
-/* .triangle svg {
-  width: 100%;
-  height: 100%;
-} */
 
 /*===========================
     SECTION 1: 4 REASONS 
@@ -421,11 +411,6 @@ input::-webkit-input-placeholder {
 .four-reasons {
   z-index: -1;
   overflow: auto;
-
-  /* background-repeat: no-repeat;
-  background-position: center top;
-  background-size: 100% 100%; */
-  /* background-color: #FAFAFA; */
   background-color: #ffd300;
   padding-bottom: 50px;
 }
@@ -462,10 +447,6 @@ input::-webkit-input-placeholder {
   margin-bottom: 10px;
   font-size: 2rem;
 }
-/* .four-reasons .reason-card:nth-of-type(3) .card-body .card-title,
-.four-reasons .reason-card:nth-of-type(4) .card-body .card-title {
-  font-size: 2.25rem;
-} */
 .four-reasons .reason-card .card-body .card-text {
   font-weight: 400;
   font-size: 1rem;
@@ -490,10 +471,6 @@ input::-webkit-input-placeholder {
   text-align: center;
   letter-spacing: -0.32px;
   font-weight: 600;
-  /* width: 224px; */
-  /* height: 64px; */
-  /* border-color: #020202; */
-  /* color: #020202; */
   padding-left: 20px;
   padding-right: 20px;
   background: linear-gradient(160.24deg, #2d2d2d 4.64%, #000 58.2%);
@@ -506,16 +483,8 @@ input::-webkit-input-placeholder {
   border-color: #020202;
   color: #020202;
 }
-/* .four-reasons .container-fluid {
-        background-color: white;
-        padding: 0;
-    } */
+
 #toc img {
-  /* background-image: url('../../img/landing/book-content-bg1.svg');
-        background-size: contain;
-        background-repeat: no-repeat;
-        background-position-x: right;
-        background-position-y: top; */
   position: absolute;
   right: 0;
   top: 0;
@@ -548,6 +517,7 @@ input::-webkit-input-placeholder {
 #toc #toc-content-container .card .card-header .btn-link {
   color: #0a54e0;
   font-weight: bold;
+  font-family: "EB Garamond", serif;
 }
 #toc #toc-content-container ul li {
   font-weight: 400;
@@ -609,20 +579,16 @@ input::-webkit-input-placeholder {
 }
 .team .author-content {
   width: 100%;
-  /* height: 489px; */
   background-color: #ffe461;
-  /* padding: 67px 56px 127px 36px; */
   padding: 67px 56px 77px 36px;
 }
 .team .author-content h5 {
   font-size: 2.5rem;
   line-height: 49px;
-  /* color: #4c2be5; */
   color: #000;
   margin-bottom: 24px;
 }
 .team .author-content h5 a {
-  /* color: #4c2be5; */
   color: #000;
   border-bottom: 3px solid black;
   transition: border-bottom-width 0.3s linear;
@@ -632,13 +598,20 @@ input::-webkit-input-placeholder {
   border-bottom-width: 5px;
 }
 .team .author-content h5 a:hover:after {
-  /* border-bottom: #4C2BE5 3px solid; */
-  /* color: #4C2BE5; */
   width: 10%;
 }
 .team .author-content img {
   width: 50%;
   margin-bottom: 7px;
+}
+.team .author-content #past-works img {
+  width: 100%;
+}
+.team .author-content #past-works a {
+  text-align: center;
+  color: #212529;
+  font-family: "Gotham", sans-serif;
+  display: block;
 }
 .team .author-content #author-content-subtitle {
   font-weight: normal;
@@ -666,10 +639,8 @@ input::-webkit-input-placeholder {
     SECTION 3: TESTIMONIALS 
 ===========================*/
 .testimonials {
-  /* padding-top: 13.75rem; */
   padding-bottom: 3rem;
   position: relative;
-  /* margin-top: -10rem; */
   background: linear-gradient(114.11deg, #4e4e4e -4.8%, #000000 78.65%);
 }
 .testimonials .section-title {
@@ -679,7 +650,6 @@ input::-webkit-input-placeholder {
   position: absolute;
   top: 10%;
   right: 0;
-  /* width: 50%; */
 }
 .testimonials .section-header {
   padding-top: 13.75rem;
@@ -694,10 +664,6 @@ input::-webkit-input-placeholder {
   padding-left: 20px;
   padding-right: 20px;
 }
-/* .testimonials .testimonial-slider .slider-bg-transparent {
-        background-color: #f9faff;
-        padding-bottom: 5px;
-    } */
 .testimonials .single-testimonial {
   box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
   -webkit-box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
@@ -821,11 +787,8 @@ input::-webkit-input-placeholder {
 ===========================*/
 .contact {
   background-repeat: no-repeat;
-  /* width: 100%;
-    height: 100%;  */
   background-position: center top;
   background-size: 100% 100%;
-  /* background: linear-gradient(180deg, #4098E2 0%, #7D23DC 100%); */
   color: white;
   margin-top: -100px;
   padding-top: 240px;

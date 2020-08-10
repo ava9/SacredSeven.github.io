@@ -518,10 +518,11 @@ input::-webkit-input-placeholder {
   color: #0a54e0;
   font-weight: bold;
   font-family: "EB Garamond", serif;
+  font-size: 1.2rem;
 }
 #toc #toc-content-container ul li {
   font-weight: 400;
-  font-size: 1.2rem;
+  font-size: 1rem;
   margin-top: 4px;
   /* font-family: 'Merriweather', serif; */
   font-family: "EB Garamond", serif;

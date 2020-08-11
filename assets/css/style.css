@@ -24,30 +24,25 @@
 @import url("https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500&display=swap");
 
 @font-face {
-  font-family: "Gotham";
-  src: local("Gotham-Bold"), url("../../fonts/Gotham-Bold.woff") format("woff");
+  font-family: 'Gotham';
+  src: local("Gotham-Bold"), url("../fonts/Gotham-Bold.woff") format("woff");
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
-  font-family: "Gotham";
+  font-family: 'Gotham';
+  src: local("Gotham-Book"), url("../fonts/Gotham-Book.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gotham';
   src: local("Gotham-Light"),
-    url("../../fonts/Gotham-Light.woff") format("woff");
+    url("../fonts/Gotham-Light.woff") format("woff");
   font-weight: 300;
   font-style: normal;
 }
-@font-face {
-  font-family: "Lato";
-  src: local("Lato-Semibold"),
-    url("../../fonts/Lato-Semibold.woff") format("woff");
-  font-weight: 600;
-  font-style: normal;
-}
-/* @font-face {
-  font-family: "LeagueGothic";
-  src: url("../../fonts/League-Gothic/LeagueGothic-Regular.otf");
-} */
-
 :root {
   font-size: 1em;
 }
@@ -99,7 +94,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Gotham", sans-serif;
+  font-family: 'Gotham', sans-serif;
   margin: 0px;
   font-weight: bold;
 }
@@ -611,7 +606,7 @@ input::-webkit-input-placeholder {
 .team .author-content #past-works a {
   text-align: center;
   color: #212529;
-  font-family: "Gotham", sans-serif;
+  font-family: 'Gotham', sans-serif;
   display: block;
 }
 .team .author-content #author-content-subtitle {

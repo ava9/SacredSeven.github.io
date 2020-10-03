@@ -847,8 +847,8 @@
 1. <https://www.pcmag.com/opinions/in-desktop-cpus-amd-is-doing-these-5-things-better-than-intel>
 1. <https://www.ibm.com/ibm/history/ibm100/us/en/icons/personalcomputer/words/>
 1. <https://www.forbes.com/sites/duenablomstrom1/2018/11/30/nobody-gets-fired-for-buying-ibm-but-they-should/#5ac4984648fc>
-1. <https://upload.wikimedia.org/wikipedia/commons/d/d8/Bloomberg_Terminal.jpg>
 1. <https://en.wikipedia.org/wiki/Bloomberg_Terminal#Keyboard>
+1. <https://upload.wikimedia.org/wikipedia/commons/d/d8/Bloomberg_Terminal.jpg>
 1. <https://www.flickr.com/photos/photographingtravis/16855662089>
 1. <https://www.thebalance.com/what-is-a-bloomberg-terminal-or-bloomberg-machine-358002>
 1. <https://data.bloomberglp.com/professional/sites/4/software_compatibility_matrix.pdf>
@@ -2077,7 +2077,7 @@
 1. <https://www.vox.com/2017/1/30/14445122/delete-uber-trump-protest-immigration-ban>
 1. <https://www.vox.com/2017/11/8/16617798/uber-delete-uber-lyft-market-share-sales>
 1. <https://www.vox.com/2017/11/8/16617798/uber-delete-uber-lyft-market-share-sales>
-1. <https://www.forbes.com/sites/andriacheng/2020/01/17/he-made-apple-stores-envy-of-retail-and-target-hip-but-his-biggest-/-career-chapter-may-be-just-starting/#5a1bd88260bb>
+1. <https://www.forbes.com/sites/jonbird1/2018/08/26/target-hits-the-mark-by-going-beyond-cheap-and-chic/>
 1. <https://hbr.org/2011/12/retail-isnt-broken-stores-are>
 1. <https://www.forbes.com/sites/andriacheng/2020/01/17/he-made-apple-stores-envy-of-retail-and-target-hip-but-his-biggest-/-career-chapter-may-be-just-starting/#5a1bd88260bb>
 1. <https://hbr.org/2011/12/retail-isnt-broken-stores-are>

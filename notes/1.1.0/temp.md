@@ -261,8 +261,8 @@
 1. <https://hackernoon.com/the-quintessential-guide-for-building-an-unforgettable-first-time-user-experience-19720a7447d2>
 1. <https://blog.ordoro.com/2016/04/19/7-best-unboxing-experiences/>
 1. <https://www.imore.com/how-repair-or-replace-broken-airpods>
-1. <https://docs.google.com/document/d/16SjYV7yg9QR5hmDSaq4UKO-PG8OYXze-qcXlNPaLMZY/edit#>
-1. <https://docs.google.com/document/d/16SjYV7yg9QR5hmDSaq4UKO-PG8OYXze-qcXlNPaLMZY/edit#>
+1. <https://chang.com/how-six-people-built-the-2-mobile-analytics-tool-in-just-a-few-months-full-article/index.html>
+1. <https://chang.com/how-six-people-built-the-2-mobile-analytics-tool-in-just-a-few-months-full-article/index.html>
 1. <https://techcrunch.com/2017/01/18/google-twitter-fabric/>
 1. <https://hackernoon.com/the-quintessential-guide-for-building-an-unforgettable-first-time-user-experience-19720a7447d2>
 1. <https://cxl.com/blog/product-recommendations/>
@@ -838,7 +838,7 @@
 1. <https://www.saastr.com/on-not-forgetting-to-be-10x-better/>
 1. <https://www.theverge.com/2019/5/15/18624681/apple-imessage-android-blue-green-bubble-color-meaning-whyd-you-push-that-button-podcast>
 1. <https://www.forbes.com/sites/aarontilley/2017/03/10/microsoft-intel-divorce/#34b64e14285f>
-1. <https://docs.google.com/document/d/106eq2jNH7oxjkncpdpxqlSUiHu2iieZ5H_IsRrV9L8U/edit#>
+1. <https://www.enterpriseai.news/2020/08/14/intel-confronts-its-ibm-moment/>
 1. <https://www.infoworld.com/article/2641125/intel-fud-versus-amd-fact.html>
 1. <https://www.pcmag.com/opinions/in-desktop-cpus-amd-is-doing-these-5-things-better-than-intel>
 1. <https://www.ibm.com/ibm/history/ibm100/us/en/icons/personalcomputer/words/>
@@ -1072,6 +1072,7 @@
 1. <https://www.computerhope.com/issues/ch000922.htm>
 1. <https://www.cultofmac.com/665770/touch-bar-macbook-pro-escape-key/>
 1. <https://livrepository.liverpool.ac.uk/3017621/1/journal.pone.0191846%20(1).pdf>
+1. <https://www.gamesradar.com/haptic-feedback-explained/>
 1. <https://support.apple.com/en-us/HT204352>
 1. <https://www.cnet.com/how-to/what-is-force-touch-macbook/>
 1. <https://www.google.com/books/edition/Intuitive_Design/QcsetAEACAAJ?hl=en>
@@ -1132,9 +1133,9 @@
 1. <https://www.averagejoestech.com/2015/01/chromebox-for-elderly-grandparents.html>
 1. <https://www.reddit.com/r/chromeos/comments/29eca9/chromebook_for_a_grandma/>
 1. <https://www.pcmag.com/picks/the-best-chromebooks-for-kids>
-1. <https://www.reddit.com/r/funny/comments/1qzgfq/my_buddy_dadproofing_his_remotes/>
 1. <https://www.simplemost.com/grandkids-make-grandparent-friendly-remote-controls-tape/>
 1. <https://www.bookofjoe.com/2016/01/how-to-hack-your-tv-remote-with-tape-to-make-it-user-friendly.html>
+1. <https://www.reddit.com/r/funny/comments/1qzgfq/my_buddy_dadproofing_his_remotes/>
 1. <https://hbr.org/2006/06/more-isnt-always-better>
 1. <https://commons.wikimedia.org/wiki/File:Apple_tv_gen_4_remote.jpeg>
 1. <https://www.investopedia.com/terms/a/analysisparalysis.asp>
@@ -1160,9 +1161,9 @@
 1. <https://lawsofux.com/teslers-law>
 1. <https://www.who.int/disabilities/world_report/2011/report/en/>
 1. <https://www.fastcompany.com/90239156/the-untold-story-of-the-vegetable-peeler-that-changed-the-world>
-1. <https://www.thepeppermillinc.com/product/oxo-good-grips-3-piece-prep-peeler-set-assorted-blades/>
 1. <https://www.nytimes.com/2013/06/22/business/sam-farber-creator-of-oxo-utensils-dies-at-88.html>
 1. <https://www.oxo.com/categories/cooking-and-baking/specialty-use/meat-and-seafood-tools.html>
+1. <https://www.thepeppermillinc.com/product/oxo-good-grips-3-piece-prep-peeler-set-assorted-blades/>
 1. <https://99u.adobe.com/articles/59919/bullet-points-visuals-and-oxo-peelers-three-experts-advocate-for-inclusive-design>
 1. <https://www.google.com/books/edition/User_Friendly/orVuDwAAQBAJ?hl=en&gbpv=1&bsq=a%20captioning%20tool%20for%20powerpoint>
 1. <https://www.google.com/books/edition/User_Friendly/orVuDwAAQBAJ?hl=en&gbpv=1&bsq=reading%20easier%20for%20dyslexics>
@@ -1172,7 +1173,7 @@
 1. <https://www.gdcvault.com/play/1025685/Board-Game-Design-Day-Edible>
 1. <https://www.gdcvault.com/play/1025685/Board-Game-Design-Day-Edible>
 1. <https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/>
-1. <https://docs.google.com/document/d/1D6t3erEgiVW3bZjCfHT1YF4JLOoNcVEw27ut5KcdH-M/edit#>
+1. <https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/>
 1. <https://material.io/develop/android/components/floating-action-button/>
 1. <https://www.practicalecommerce.com/mobile-site-pass-thumb-zone-test>
 1. <https://www.practicalecommerce.com/mobile-site-pass-thumb-zone-test>
@@ -1198,11 +1199,11 @@
 1. <https://www.wikihow.com/Cancel-a-Credit-Card>
 1. <https://www.reddit.com/r/assholedesign/comments/hm6vdy/after_multiple_robocalls_password_resets_and/>
 1. <https://www.wikihow.com/Delete-an-Amazon-Account>
-1. <https://www.reddit.com/r/assholedesign/comments/hks7cl/this_should_be_illegal/>
 1. <https://www.vox.com/the-goods/2019/6/12/18662992/ticket-fees-ticketmaster-stubhub-ftc-regulation>
 1. <https://help.ticketmaster.com/s/article/How-are-ticket-prices-and-fees-determined?language=en_US>
 1. <https://www.msn.com/en-us/travel/news/airbnb-considers-changing-how-rental-prices-are-displayed-after-complaints-about-extra-hidden-fees/ar-BB10unv1>
 1. <https://www.usatoday.com/story/tech/talkingtech/2019/09/16/hotwire-airbnb-priceline-slip-hidden-fees-cart-hotel-rooms/2304754001/>
+1. <https://www.reddit.com/r/assholedesign/comments/hks7cl/this_should_be_illegal/>
 1. <https://www.reddit.com/r/assholedesign/comments/hks7cl/this_should_be_illegal/>
 1. <https://www.nytimes.com/2019/08/23/business/how-uber-got-lost.html>
 1. <https://www.reddit.com/r/ABoringDystopia/comments/atcq8w/its_got_to_be_illegal_to_paywall_a_credit_youre/>
@@ -1210,9 +1211,9 @@
 1. <https://twitter.com/dishonestmktg>
 1. <https://www.darkpatterns.org/types-of-dark-pattern/bait-and-switch>
 1. <https://www.youtube.com/watch?v=7xQQkzWhMOc>
-1. <https://darkpatterns.org/types-of-dark-pattern/bait-and-switch>
 1. <https://www.smashingmagazine.com/2018/09/dark-patterns-and-other-design-no-nos-for-mobile/>
 1. <https://www.darkpatterns.org/types-of-dark-pattern/bait-and-switch>
+1. <https://darkpatterns.org/types-of-dark-pattern/bait-and-switch>
 1. <https://www.reddit.com/r/assholedesign/comments/g225wf/grammarly_says_your_writing_has_plagiarism_but/>
 1. <https://www.reddit.com/r/assholedesign/comments/hpx880/photobucket_implies_theyll_release_your_probably/>
 1. <https://shoutsfromtheabyss.wordpress.com/2013/06/20/ikea-the-light/>
@@ -1245,9 +1246,9 @@
 ### Conclusion
 
 1. <https://www.vox.com/the-goods/2018/10/2/17923050/self-checkout-amazon-walmart-automation-jobs-surveillance>
-1. <https://commons.wikimedia.org/wiki/File:Amazon_Go_Grocery_-_610_Pike_Street,_Seattle_-_interior_with_carts_and_shelves.jpg>
 1. <https://www.theguardian.com/business/2016/dec/05/amazon-go-store-seattle-checkouts-account>
 1. <https://www.pocket-lint.com/phones/news/amazon/139650-what-is-amazon-go-where-is-it-and-how-does-it-work>
+1. <https://commons.wikimedia.org/wiki/File:Amazon_Go_Grocery_-_610_Pike_Street,_Seattle_-_interior_with_carts_and_shelves.jpg>
 1. <https://www.theverge.com/2020/2/25/21151021/amazon-go-grocery-store-expansion-open-seattle-cashier-less>
 1. <https://www.forbes.com/sites/andriacheng/2019/01/13/why-amazon-go-may-soon-change-the-way-we-want-to-shop/#7ead54216709>
 1. <http://www.nointerface.com/book/>
@@ -1718,10 +1719,10 @@
 1. <http://www.slate.com/articles/technology/cover_story/2016/01/how_facebook_s_news_feed_algorithm_works.html>
 1. <https://www.worldofcoca-cola.com/media-alert/coca-cola-moves-its-secret-formula/>
 1. <https://www.uspto.gov/ip-policy/trade-secret-policy>
-1. <https://www.flickr.com/photos/flyingroc/4831613735/>
 1. <https://www.research.ibm.com/patents/>
 1. <https://www.upcounsel.com/highest-number-of-patents-by-a-company>
 1. <https://docs.microsoft.com/en-us/archive/blogs/korbyp/patent-number-zero>
+1. <https://www.flickr.com/photos/flyingroc/4831613735/>
 1. <https://www.copyright.gov/help/faq/faq-protect.html>
 1. <https://www.copyright.gov/help/faq/faq-duration.html>
 1. <http://www.quizlaw.com/copyrights/what_is_fixation.php>
@@ -2052,8 +2053,8 @@
 1. <https://www.smartinsights.com/online-brand-strategy/brand-development/branding-origins/>
 1. <https://www.google.com/books/edition/Alchemy/mI2vDgAAQBAJ>
 1. <https://www.google.com/books/edition/Alchemy/mI2vDgAAQBAJ>
-1. <https://www.pexels.com/photo/foot-on-yellow-hoverboard-1768035/>
 1. <https://www.cnet.com/news/why-are-hoverboards-exploding-and-catching-fire/>
+1. <https://www.pexels.com/photo/foot-on-yellow-hoverboard-1768035/>
 1. <https://www.google.com/books/edition/Alchemy/mI2vDgAAQBAJ>
 1. <https://www.gearhungry.com/best-hoverboard/>
 1. <https://www.google.com/books/edition/Alchemy/mI2vDgAAQBAJ>
@@ -2324,8 +2325,8 @@
 1. <https://www.socialmediaexaminer.com/6-powerful-social-media-persuasion-techniques/>
 1. <https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc>
 1. <https://help.netflix.com/en/node/16282>
-1. <https://scottsigler.com/warby-parker-promo-code/>
 1. <https://lifehacker.com/try-on-five-pairs-of-glasses-for-free-at-home-with-warb-5919905>
+1. <https://scottsigler.com/warby-parker-promo-code/>
 1. <https://www.acrwebsite.org/volumes/9296>
 1. <https://www.verywellmind.com/the-asch-conformity-experiments-2794996>
 1. <https://www.mobilespoon.net/2019/04/collection-cognitive-biases-how-to-use.html?m=1>

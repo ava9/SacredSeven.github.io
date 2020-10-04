@@ -603,7 +603,7 @@
 1. <https://www.netflix.com/signup/planform>
 1. <https://www.apple.com/iphone/>
 1. <https://www.godaddy.com/domainsearch/find>
-1. <\endnote {https://kenthendricks.com/99-cent-prices/}>
+1. <https://kenthendricks.com/99-cent-prices/>
 1. <http://link.springer.com/article/10.1023%2FA%3A1023581927405>
 1. <https://link.springer.com/article/10.1023/A:1023581927405>
 1. <https://karveldigital.com/why-i-dont-use-godaddy-you-shouldnt-either/>
@@ -673,8 +673,8 @@
 1. <https://humanhow.com/en/the-decoy-effect-complete-guide/>
 1. <https://www.apple.com/shop/buy-mac/mac-pro/tower>
 1. <https://www.apple.com/shop/buy-mac/mac-pro/tower>
-1. <\endnote {https://www.apple.com/shop/buy-mac/mac-pro/tower}>
-1. <\endnote {https://www.apple.com/shop/buy-mac/mac-pro/tower}>
+1. <https://www.apple.com/shop/buy-mac/mac-pro/tower>
+1. <https://www.apple.com/shop/buy-mac/mac-pro/tower>
 1. <https://kenthendricks.com/starbucks-menu-design/>
 1. <https://kenthendricks.com/decoy-effect/>
 1. <https://kenthendricks.com/starbucks-menu-design/>
@@ -1283,8 +1283,8 @@
 1. <https://www.businessinsider.com/leaked-charts-show-how-ubers-driver-rating-system-works-2015-2?op=1>
 1. <https://www.engadget.com/2019-05-29-uber-deactivate-rider-accounts.html>
 1. <https://online.stat.psu.edu/stat500/lesson/3/3.3/3.3.2>
-1. <\endnote {https://towardsdatascience.com/understanding-the-68-95-99-7-rule-for-a-normal-distribution-b7b7cbf760c2?gi=898d0b602ae8}>
-1. <\endnote {https://towardsdatascience.com/understanding-the-68-95-99-7-rule-for-a-normal-distribution-b7b7cbf760c2?gi=898d0b602ae8}>
+1. <https://towardsdatascience.com/understanding-the-68-95-99-7-rule-for-a-normal-distribution-b7b7cbf760c2?gi=898d0b602ae8>
+1. <https://towardsdatascience.com/understanding-the-68-95-99-7-rule-for-a-normal-distribution-b7b7cbf760c2?gi=898d0b602ae8>
 1. <https://www.census.gov/data/tables/time-series/demo/income-poverty/cps-hinc/hinc-06.2017.html>
 1. <https://www.census.gov/data/tables/time-series/demo/income-poverty/cps-hinc/hinc-06.2017.html>
 1. <https://web.ma.utexas.edu/users/mks/statmistakes/skeweddistributions.html>
